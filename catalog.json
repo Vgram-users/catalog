@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T12:51:27Z",
+  "updated": "2026-11-17T13:22:29Z",
   "client_update": {
-    "version_code": 2,
-    "version_name": "1.1.0",
-    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v2\/VStore.apk",
-    "sha256": "992641e6efc373e686331a266be304b33f955b96b82aac7f47028b682a5213e4",
-    "size": 373427,
-    "changelog": "Жёлтая тема по умолчанию. Выбор темы: жёлтая, светлая, тёмная, как в системе."
+    "version_code": 3,
+    "version_name": "1.2.0",
+    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v3\/VStore.apk",
+    "sha256": "e9cf0cb5918fa5dda0e4d1b0960995558d734b2d0dab5bd535b9ecc884c2e77b",
+    "size": 1000115,
+    "changelog": "Нечего"
   },
   "apps": [
     {
