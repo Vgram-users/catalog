@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T19:52:27Z",
+  "updated": "2026-11-17T19:55:41Z",
   "client_update": {
     "version_code": 12,
     "version_name": "1.4.7",
-    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v12/VStore.apk",
+    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v12\/VStore.apk",
     "sha256": "fd36f3d28a9390621fb02f4da15a232a861e01cbd456a7f96db8c43e94fc98de",
     "size": 1012403,
     "changelog": "Исправлен вылет кнопки «Настройки» в студии. Три режима темы: Material 3 (графит+синий), Material You (динамические цвета), свой HEX-цвет. Статус — полноширинная карточка. Публикация клиента только после подтверждения."
@@ -15,17 +15,20 @@
       "name": "V Store",
       "author": "неясный",
       "description": "",
-      "icon": "https://github.com/Vgram-users/catalog/releases/download/client-v12/client-icon.png",
+      "icon": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v12\/client-icon.png",
       "banner": "",
       "package": "com.vstore.client",
       "version_name": "1.4.7",
       "version_code": 12,
       "mode": "direct",
-      "url": "https://github.com/Vgram-users/catalog/releases/download/client-v12/client-12.apk",
+      "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v12\/client-12.apk",
       "sha256": "fd36f3d28a9390621fb02f4da15a232a861e01cbd456a7f96db8c43e94fc98de",
-      "size": 1012403,
+      "size": 1016499,
+      "patch_url": "",
+      "patch_sha256": "",
+      "patch_size": 0,
       "changelog": "",
-      "updated_at": 1794945147320
+      "updated_at": 1794945340306
     }
   ]
 }
