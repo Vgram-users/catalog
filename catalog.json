@@ -1,13 +1,31 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T16:42:58Z",
+  "updated": "2026-11-17T17:01:17Z",
   "client_update": {
-    "version_code": 7,
-    "version_name": "1.4.2",
-    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v7\/VStore.apk",
-    "sha256": "62a70812905f38387717b9b81c40f8a0af9f2a208b6217050ce9766563eff378",
+    "version_code": 8,
+    "version_name": "1.4.3",
+    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v8/VStore.apk",
+    "sha256": "9d9ac02d5bc72be3deb6ef8d257835730830d759da3ef72d6625819e46298411",
     "size": 1012403,
-    "changelog": ""
+    "changelog": "Студия: выбор Material You / Material 3 и подключение к GitHub по умолчанию (Vgram-users/catalog · main). Клиент: палитра Material You или Material 3 через тему."
   },
-  "apps": []
+  "apps": [
+    {
+      "id": "client",
+      "name": "V Store",
+      "author": "неясный",
+      "description": "",
+      "icon": "https://github.com/Vgram-users/catalog/releases/download/client-v8/client-icon.png",
+      "banner": "",
+      "package": "com.vstore.client",
+      "version_name": "1.4.3",
+      "version_code": 8,
+      "mode": "direct",
+      "url": "https://github.com/Vgram-users/catalog/releases/download/client-v8/client-8.apk",
+      "sha256": "9d9ac02d5bc72be3deb6ef8d257835730830d759da3ef72d6625819e46298411",
+      "size": 1012403,
+      "changelog": "",
+      "updated_at": 1794934877257
+    }
+  ]
 }
