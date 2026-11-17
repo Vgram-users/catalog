@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T13:57:11Z",
+  "updated": "2026-11-17T14:13:28Z",
   "client_update": {
     "version_code": 3,
     "version_name": "1.2.0",
@@ -9,26 +9,5 @@
     "size": 1000115,
     "changelog": ""
   },
-  "apps": [
-    {
-      "id": "patchertiktok",
-      "name": "TiktokPatchXposed",
-      "author": "неясный",
-      "description": "",
-      "icon": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/patchertiktok-v54\/patchertiktok-icon.png",
-      "banner": "",
-      "package": "com.golda.patchertiktok",
-      "version_name": "4.5.0",
-      "version_code": 54,
-      "mode": "direct",
-      "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/patchertiktok-v54\/patchertiktok-54.apk",
-      "sha256": "b61961594f6dcf5c1da4bf4447092a2164a77ee295c8c62d7ced8e0971245cd4",
-      "size": 379634,
-      "patch_url": "",
-      "patch_sha256": "",
-      "patch_size": 0,
-      "changelog": "",
-      "updated_at": 1794923830296
-    }
-  ]
+  "apps": []
 }
