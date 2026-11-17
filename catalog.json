@@ -1,13 +1,31 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T18:02:12Z",
+  "updated": "2026-11-17T19:29:44Z",
   "client_update": {
-    "version_code": 10,
-    "version_name": "1.4.5",
-    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v10\/VStore.apk",
-    "sha256": "1c2cdcb75ea89c3ee04582b1f9b69307e765eb190eb3a40c3a657c19e1219199",
+    "version_code": 11,
+    "version_name": "1.4.6",
+    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v11/VStore.apk",
+    "sha256": "b4793f2be448258d8298a95019ac360d5cb8377b15338b2276e96dae5590a3fc",
     "size": 1012403,
-    "changelog": "Выбор Material You \/ Material 3 в теме обеих версий. Настройки студии упрощены: GitHub подключён по умолчанию, палитра через общий диалог темы."
+    "changelog": "Редизайн обеих версий: крупные карточки и кнопки, статус стал полноширинной горизонтальной карточкой, в теме — пресеты цвета. Клиент скрыт из списка проектов."
   },
-  "apps": []
+  "apps": [
+    {
+      "id": "client",
+      "name": "V Store",
+      "author": "неясный",
+      "description": "",
+      "icon": "https://github.com/Vgram-users/catalog/releases/download/client-v11/client-icon.png",
+      "banner": "",
+      "package": "com.vstore.client",
+      "version_name": "1.4.6",
+      "version_code": 11,
+      "mode": "direct",
+      "url": "https://github.com/Vgram-users/catalog/releases/download/client-v11/client-11.apk",
+      "sha256": "b4793f2be448258d8298a95019ac360d5cb8377b15338b2276e96dae5590a3fc",
+      "size": 1012403,
+      "changelog": "",
+      "updated_at": 1794943784612
+    }
+  ]
 }
