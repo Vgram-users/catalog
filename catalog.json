@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T14:13:28Z",
+  "updated": "2026-11-17T15:44:35Z",
   "client_update": {
-    "version_code": 3,
-    "version_name": "1.2.0",
-    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v3\/VStore.apk",
-    "sha256": "a63554c62dc39885721b572baac7e127a65febbb695703cde735f576205075c2",
-    "size": 1000115,
+    "version_code": 4,
+    "version_name": "1.3.0",
+    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v4\/VStore.apk",
+    "sha256": "59a16f8756eacba833cdd912770220749b93aa7dea44a22ee7fa8cd43cda5775",
+    "size": 1004211,
     "changelog": ""
   },
   "apps": []
