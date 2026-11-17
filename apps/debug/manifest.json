@@ -1,0 +1,20 @@
+{
+  "id": "debug",
+  "name": "Pixel Keyboard",
+  "author": "неясный",
+  "description": "",
+  "icon": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/debug-v1\/debug-icon.png",
+  "banner": "",
+  "package": "com.vgram.pixelkeyboard.debug",
+  "version_name": "1.0.0-debug",
+  "version_code": 1,
+  "mode": "direct",
+  "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/debug-v1\/debug-1.apk",
+  "sha256": "0389b8ee79defcb0d7265307bf83640285fe4847c1dc9d260094f224394d92e9",
+  "size": 1276574,
+  "patch_url": "",
+  "patch_sha256": "",
+  "patch_size": 0,
+  "changelog": "",
+  "updated_at": 1794944394384
+}
