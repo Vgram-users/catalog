@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T19:35:34Z",
+  "updated": "2026-11-17T19:35:48Z",
   "client_update": {
     "version_code": 11,
     "version_name": "1.4.6",
@@ -10,26 +10,6 @@
     "changelog": "Редизайн обеих версий: крупные карточки и кнопки, статус стал полноширинной горизонтальной карточкой, в теме — пресеты цвета. Клиент скрыт из списка проектов."
   },
   "apps": [
-    {
-      "id": "client",
-      "name": "V Store",
-      "author": "неясный",
-      "description": "",
-      "icon": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v11\/client-icon.png",
-      "banner": "",
-      "package": "com.vstore.client",
-      "version_name": "1.4.6",
-      "version_code": 11,
-      "mode": "direct",
-      "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v11\/client-11.apk",
-      "sha256": "b4793f2be448258d8298a95019ac360d5cb8377b15338b2276e96dae5590a3fc",
-      "size": 1012403,
-      "patch_url": "",
-      "patch_sha256": "",
-      "patch_size": 0,
-      "changelog": "",
-      "updated_at": 1794943784612
-    },
     {
       "id": "client-2",
       "name": "V Store",
