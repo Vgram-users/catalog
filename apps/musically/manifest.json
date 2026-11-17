@@ -1,0 +1,20 @@
+{
+  "id": "musically",
+  "name": "TikTok",
+  "author": "неясный",
+  "description": "",
+  "icon": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/musically-v2024707030\/musically-icon.png",
+  "banner": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/musically-v2024707030\/musically-banner.png",
+  "package": "com.zhiliaoapp.musically",
+  "version_name": "47.7.3",
+  "version_code": 2024707030,
+  "mode": "direct",
+  "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/musically-v2024707030\/musically-2024707030.apk",
+  "sha256": "bf6636755dc01d5955821d821de9bf8c4c5bd92d4ae1a183d35e41374fa99366",
+  "size": 473570664,
+  "patch_url": "",
+  "patch_sha256": "",
+  "patch_size": 0,
+  "changelog": "",
+  "updated_at": 1794946294204
+}
