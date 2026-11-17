@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T16:15:59Z",
+  "updated": "2026-11-17T16:16:41Z",
   "client_update": {
-    "version_code": 4,
-    "version_name": "1.3.0",
-    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v4\/VStore.apk",
-    "sha256": "59a16f8756eacba833cdd912770220749b93aa7dea44a22ee7fa8cd43cda5775",
-    "size": 1004211,
-    "changelog": ""
+    "version_code": 5,
+    "version_name": "1.4.0",
+    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v5/VStore.apk",
+    "sha256": "6067c6a940999fc799ecad85b25a92271f736d305d9250294179b64389dbe564",
+    "size": 1012403,
+    "changelog": "Свой цвет: HEX-палитра для кнопок, карточек и акцентов вместо палитры обоев. Новый экран приложения с баннером. Загрузки и установки идут очередью в фоне, с уведомлением, прогрессом и кнопкой «Повторить». Понятнее ошибки загрузки и проверки SHA-256."
   },
   "apps": []
 }
