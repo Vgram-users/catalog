@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T16:30:59Z",
+  "updated": "2026-11-17T16:39:03Z",
   "client_update": {
     "version_code": 7,
     "version_name": "1.4.2",
-    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v7/VStore.apk",
+    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v7\/VStore.apk",
     "sha256": "62a70812905f38387717b9b81c40f8a0af9f2a208b6217050ce9766563eff378",
     "size": 1012403,
-    "changelog": "Отмена загрузки стирает задачу: карточка возвращается к «Установить», а не к «Повторить». Кнопки «Отмена» и «Повторить» теперь живут прямо в уведомлении. Всё из 1.4.0: HEX-цвет, полноэкранный экран приложения, фоновые установки."
+    "changelog": ""
   },
   "apps": []
 }
