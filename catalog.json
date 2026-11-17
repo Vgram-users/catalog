@@ -1,13 +1,34 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T12:31:07Z",
+  "updated": "2026-11-17T12:51:27Z",
   "client_update": {
     "version_code": 2,
     "version_name": "1.1.0",
-    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v2/VStore.apk",
+    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v2\/VStore.apk",
     "sha256": "992641e6efc373e686331a266be304b33f955b96b82aac7f47028b682a5213e4",
     "size": 373427,
     "changelog": "Жёлтая тема по умолчанию. Выбор темы: жёлтая, светлая, тёмная, как в системе."
   },
-  "apps": []
+  "apps": [
+    {
+      "id": "musically",
+      "name": "TikTok",
+      "author": "неясный",
+      "description": "",
+      "icon": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/musically-v2024707030\/musically-icon.png",
+      "banner": "",
+      "package": "com.zhiliaoapp.musically",
+      "version_name": "47.7.3",
+      "version_code": 2024707030,
+      "mode": "direct",
+      "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/musically-v2024707030\/musically-2024707030.apk",
+      "sha256": "cf0acfcc5aa63fdaf0a0c8f72769174ba976ebc2a5c94b689672c533f92e5cb6",
+      "size": 352327046,
+      "patch_url": "",
+      "patch_sha256": "",
+      "patch_size": 0,
+      "changelog": "",
+      "updated_at": 1794919885871
+    }
+  ]
 }
