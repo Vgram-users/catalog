@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "updated": "2026-11-17T12:17:39Z",
+  "client_update": {
+    "version_code": 1,
+    "version_name": "1.0.0",
+    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v1/VStore.apk",
+    "sha256": "a744c61d224923fbb68a048ace6499e07c6a43f6c881247b6280767cae084c08",
+    "size": 369331,
+    "changelog": "Первый выпуск: каталог, поиск, установка и обновление клиента."
+  },
+  "apps": []
+}
