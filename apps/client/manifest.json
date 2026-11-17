@@ -1,0 +1,20 @@
+{
+  "id": "client",
+  "name": "V Store",
+  "author": "неясный",
+  "description": "",
+  "icon": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v9\/client-icon.png",
+  "banner": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v9\/client-banner.png",
+  "package": "com.vstore.client",
+  "version_name": "1.4.4",
+  "version_code": 9,
+  "mode": "direct",
+  "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v9\/client-9.apk",
+  "sha256": "83da57aff4fce222220c50dc27c1220ccd366cb32b26669554d068ecfcf79588",
+  "size": 1012403,
+  "patch_url": "",
+  "patch_sha256": "",
+  "patch_size": 0,
+  "changelog": "",
+  "updated_at": 1794937688064
+}
