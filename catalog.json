@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "updated": "2026-11-18T11:25:01Z",
+  "updated": "2026-11-18T11:25:24Z",
   "client_update": {
-    "version_code": 12,
-    "version_name": "1.4.7",
-    "url": "https:\/\/github.com\/Vgram-users\/catalog\/releases\/download\/client-v12\/VStore.apk",
-    "sha256": "fd36f3d28a9390621fb02f4da15a232a861e01cbd456a7f96db8c43e94fc98de",
-    "size": 1012403,
-    "changelog": "Исправлен вылет кнопки «Настройки» в студии. Три режима темы: Material 3 (графит+синий), Material You (динамические цвета), свой HEX-цвет. Статус — полноширинная карточка. Публикация клиента только после подтверждения."
+    "version_code": 13,
+    "version_name": "1.4.8",
+    "url": "https://github.com/Vgram-users/catalog/releases/download/client-v13/VStore.apk",
+    "sha256": "f2b684cc446036acb320b25df58ef4d083d632c5ebf8b3792ec5210f556b6f91",
+    "size": 1016499,
+    "changelog": "Патчи .zip/.apk без patch.json, авто-DEX classesN.dex, patch_type и patch_size_bytes."
   },
   "apps": []
 }
